@@ -1,9 +1,9 @@
                 /* Estilos asociados a los encabezados */
                 
-                @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+                @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&family=Playfair+Display&display=swap');
                 body {
                     margin: 0;
-                    font-family: 'Mukta', sans-serif;
+                    font-family: 'Playfair Display', serif;
                 }
                 /* Estilos asociados al encabezado */
                 
